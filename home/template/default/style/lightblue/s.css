@@ -1,0 +1,107 @@
+.lightblue .toolbar a:hover{ color:#4dc5f6;}
+.lightblue .toolbar .userNike{ color:#4dc5f6;}
+.lightblue .header .search input.smt{background-color:#90e4ff;}
+.lightblue .header .links{ background:url(./images/toolbar_links2.png) no-repeat;}
+.lightblue .head_nav{background-color:#7dd9ff;}
+.lightblue .head_nav .nav_list a i{ color:#61d1ff; border-color:#61d1ff;}
+.lightblue .head_nav .nav_list a:hover{ background-color:#61d1ff;}
+.lightblue .head_nav .nav_list a.on{ background-color:#61d1ff;}
+.lightblue .head_nav .r_con .singin{background:url(./images/sign.jpg) no-repeat;}
+.lightblue .head_nav .r_con .singined{background: url(./images/sign.jpg) no-repeat 0 -70px;}
+.lightblue .singn_panel .dropdown_menu,.lightblue  .sign_board .dropdown_menu{ border-color:#7dd9ff;}
+.lightblue .login_board b{ color:#22b2e1;}
+.lightblue .singn_panel .dropdown_menu b{ color:#22b2e1;}
+.lightblue .junav .nav_list a.on{ color:#7dd9ff ;border-bottom-color:#7dd9ff;}
+
+
+.lightblue .junav .nav_list a.on{ color:#7dd9ff; border-bottom-color:#7dd9ff;}
+.lightblue .junav .recommend a.on{ color:#7dd9ff;border-bottom-color:#7dd9ff; }
+
+.lightblue .list_page span.current a{ background-color:#34bde9;}
+.lightblue .about{ border-top-color:#7dd9ff;}
+.lightblue .about li a:hover{ color:#34bde9;}
+.lightblue .about li.w3 h3 a{ color:#34bde9;}
+.lightblue .about li.w4 h4 em{ color:#34bde9;}
+.lightblue .friendly_links .more:hover{ color:#34bde9;}
+
+
+.lightblue .deal h4 em{ color:#34bde9;}
+.lightblue .deal h4 span{ color:#34bde9;}
+.lightblue .deal h4 a{ background:url(./images/dbg1.png) no-repeat 0 -256px}
+.lightblue .deal h6 a{ color:#34bde9; }
+.lightblue .bady_tab li .line_top{ background-color:#65d9ff;}
+.lightblue .item_goods_list .brand_new{ background:url(./images/brand-new.png);}
+.lightblue .price_info .item_btn .heart{background:url(./images/my-like.png) no-repeat -23px -37px;}
+.lightblue .price_info .price .jd_current{ color:#34bde9;}
+.lightblue .price_info .item_btn .btn{ background:url(./images/new-alert-total.gif) no-repeat;}
+.lightblue .price_info .item_btn .buy{ background-position: 0 -132px;}
+.lightblue .price_info .item_btn .buy:hover{ background-position: 0 -184px;}
+.lightblue .price_info .item_btn .over{ background-position: 0 -344px;}
+.lightblue .price_info .item_btn .start{ background-position:0 -289px}
+.lightblue .good_price .btn a{ background:url(./images/tag_state.gif) no-repeat -83px -125px;}
+
+.lightblue .blockBL a:hover{color:#34bde9;}
+.lightblue .an_tab_nav{ border-bottom-color:#7dd9ff;}
+
+
+.lightblue .jd_num01{ color:#34bde9;}
+.lightblue .org{color:#34bde9;}
+.lightblue .bady_tab li a.badyactive{ color:#4ad0fc;}
+.lightblue .bady_tab li a em{ color:#22b2e1;}
+.lightblue .g_list.buy .price_current {color: #34bde9;}
+.lightblue .deal .newicon{background:url(./images/pp_icons.png) no-repeat 0 0;}
+.lightblue .box_list .bar{color:#34bde9;}
+.lightblue .baockP .leftb dl a:hover,.lightblue .baockP .leftb dl a.on{border-left-color:#34bde9;}
+
+.lightblue .an_tab_nav li{ background:url('./images/bg.png') no-repeat 0 -27px; }
+.lightblue .an_tab_nav li a{background:url('./images/bg.png') no-repeat right -27px;}
+.lightblue .an_tab_nav li.on {background-position: 0 0;}
+.lightblue .baockP .leftb dl dt{ color:#34bde9;}
+
+.lightblue .warning_login em{ background:url(./images/center.gif) no-repeat 0 0;}
+.lightblue .invite_friend dd .fuzhi{background: url(./images/center.gif) no-repeat 0 -87px;}
+.lightblue .invite_friend dt em{color: #34bde9;}
+
+.lightblue .flutter .side_logo a{background:url(./images/side_logo.png) no-repeat #8DDEFF center;}
+.lightblue .side_nav h3{ background-color:#daf6ff; color:#36c9f9;}
+.lightblue .side_nav h3 a{ color:#36c9f9;}
+.lightblue .side_nav ul li a.on,.lightblue .side_nav ul li a.on:hover {background: #7dd9ff;color: #fff;}
+.lightblue .side_nav .search_form .smt{ background:url(./images/icon_search.png) no-repeat #90e4ff center;}
+.lightblue .side_nav .add_link i{ background:url(./images/32787_icon.png) no-repeat;}
+
+.lightblue .redm_c{border-color:#7dd9ff;}
+.lightblue .redm_c .title{background-color:#7dd9ff;}
+.lightblue .redm_c .link a{color:#DD671F;}
+.lightblue .use_login .right .remberPwd a{color:#7dd9ff;}
+.lightblue .use_login .right .loginBtn{background:url(./images/login.gif) no-repeat 0 0;}
+.lightblue .use_login .right .jumoRegist{ background:url(./images/login.gif) -87px 0 no-repeat; }
+.lightblue .registInfo .changeVercode{ color:#7dd9ff;}
+.lightblue .registInfo .regist_stup p .cur{ color:#7dd9ff;}
+.lightblue .registInfo .regist_stup p span.cur i{ background:url(./images/login.gif) no-repeat 0 -145px;}
+.lightblue .registInfo .regist_atonce .regist{background:url(./images/login.gif) -86px 0 no-repeat;}
+.lightblue .gosafeCenter {background: url(./images/login.gif) -87px 0;}
+.lightblue .cooperatonType ul li h4 a{ background:url(./images/signcenter.png) no-repeat 0 0;}
+.lightblue .goods_url input.btn{ background:url(./images/login.gif) no-repeat -87px 0;}
+.lightblue .goods_url i{ color:#7dd9ff;}
+.lightblue .deallist .list h4 span{color:#7dd9ff;}
+
+.lightblue .user_pwd .sub_btn {background: url(./images/login.gif) -87px 0;}
+.lightblue .login_email {background: url(./images/login.gif) -87px 0;}
+.lightblue .input_file {background: url(./images/selectFile.png) no-repeat;}
+.lightblue .deallist .list h4 a {background: url(./images/bg3.png) no-repeat;}
+.lightblue .content_right .describe_goods h4 .btn {background: url(./images/duihuan.gif) no-repeat 0 -257px;}
+.lightblue .content_right .describe_goods h4 a.jjks{ background-position:0 -291px;}
+.lightblue .content_right .describe_goods h4 a.over{ background-position:0 -324px;}
+.lightblue .content_right .J_TabBarWrap ul li a{background: url(./images/i3.png) right -66px no-repeat;}
+
+.lightblue .show_box_msg .outer .title {background: url(./images/prompt1.png) no-repeat;}
+.lightblue .show_box_msg .inner {background: url(./images/prompt2.png) repeat-y;}
+.lightblue .show_box_msg .msg_footer {background: url(./images/prompt3.png) no-repeat;}
+.lightblue .show_box_msg .inner .inner_report .sub_btn {background: url(./images/sub.png) no-repeat;}
+.lightblue .goods_url .blockB li.recommand .subBtn {background: url(./images/center.gif) no-repeat -240px -326px;}
+.lightblue .nav_c .nav_menu {border-bottom-color: #7dd9ff;}
+.lightblue .nav_c .nav_menu a {background: url(./images/bg2.png) no-repeat 0 -445px;}
+.lightblue .nav_c .nav_menu a em {background: url(./images/bg2.png) no-repeat 100% -445px;}
+
+.lightblue .apply_addredd.try .apply_title .one,.lightblue .apply_addredd.try .apply_title .two,.lightblue .apply_addredd.try .apply_title .three{width:370px; height:29px; background:url(./images/dotry.jpg) no-repeat 0 0;}
+.lightblue .apply_addredd.exchange .apply_title .one,.lightblue .apply_addredd.exchange .apply_title .two,.lightblue .apply_addredd.exchange .apply_title .three{width:370px; height:29px; background:url(./images/doexchange.jpg) no-repeat 0 0;}

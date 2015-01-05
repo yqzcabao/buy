@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+.apply_addredd{ background-color:#FFF; width:980px; padding-bottom:20px;}
+.apply_addredd .apply_title,.apply_addredd .address_c{ padding:10px 20px 10px;}
+.apply_addredd h5{ font-size:15px; font-weight:bold; margin-bottom:20px; color:#494949; font-family:"微软雅黑"}
+.apply_addredd .apply_title{ border-bottom:1px dotted #ccc; padding-bottom:20px;}
+.apply_addredd.try .apply_title .one,.apply_addredd.try .apply_title .two,.apply_addredd.try .apply_title .three{width:370px; height:29px; background:url(../images/do/dotry.png) no-repeat 0 0;}
+.apply_addredd.try .apply_title .two{background-position:0 -29px}
+.apply_addredd.try .apply_title .three{background-position:0 -58px}
+.apply_addredd.exchange .apply_title .one,.apply_addredd.exchange .apply_title .two,.apply_addredd.exchange .apply_title .three{width:370px; height:29px; background:url(../images/do/doexchange.png) no-repeat 0 0;}
+.apply_addredd.exchange .apply_title .two{background-position:0 -29px}
+.apply_addredd.exchange .apply_title .three{background-position:0 -58px}
+.apply_addredd .address_c{ margin-top:10px;}
+.apply_addredd .select_addredd{ background-color:#fffdeb; padding-left:25px; width:910px; padding-top:10px; border-radius:10px; margin-top:20px; height:auto}
+.apply_addredd .select_addredd label{ font-size:14px; text-align:right;  height:26px; line-height:26px; width:130px; display:inline-block}
+.apply_addredd .select_addredd .input_text{ border:1px solid #ccc; font-size:14px; height:26px; line-height:26px; padding-left:5px; margin-right:5px; background-color:#fff; border-color:#aaa #ddd #ddd #aaa;}
+.apply_addredd .address_c li{ margin-bottom:30px;padding-bottom:5px;}
+.apply_addredd .address_c li .null{ margin-top:20px;}
+.apply_addredd .address_c li em{ color: #F00;font-family: Verdana,Geneva,sans-serif;font-size: 16px;}
+.apply_addredd .address_c li.btns{ margin-left:135px; margin-top:30px;}
+.apply_addredd .address_c li.btns .btn{ width:90px; height:35px; background:url(../../../../../static/images/facebg_1.png) no-repeat; margin-right:20px;}
+.apply_addredd .address_c li.btns .save{ background-position: 0 -140px;}
+.apply_addredd .address_c li.btns .next{ background-position: 0 -179px;}
+.apply_addredd .address_c select{ border:1px solid #ccc; border-color:#aaa #ddd #ddd #aaa; height:30px; line-height:30px;padding: 5px 5px;font-size: 14px;margin-right: 5px;margin-top: 1px;}
+.apply_addredd .address_c li input.name_input{ width:80px}
+.apply_addredd .address_c li p{color:#98989;width:400px; margin-top:10px; font-size:13px; color:#666;line-height:20px;}
+.apply_addredd .address_c li p.messp{ margin-left:135px;}
+.apply_addredd .address_c li input.address_input{ margin-left:135px; width:300px;}
+.apply_addredd .address .pub_txt{ font-size: 14px;height:140px; resize:none; border:1px solid #ccc;width:800px; padding:5px; overflow:hidden}
+.apply_addredd .address .face{ display:block; width:20px; height:20px ; background:url(../../../../../static/images/facebg_1.png) no-repeat 0 -100px;}
+.apply_addredd .address .face:hover{ background-position: 0 -120px;}
+
+.address #SmohanFaceBox{left: 0px;top: 180px;}
+.address #SmohanFaceBox .Corner{left:10px}

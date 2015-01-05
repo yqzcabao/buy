@@ -1,0 +1,107 @@
+.pink .toolbar a:hover{ color:#E44AAA;}
+.pink .toolbar .userNike{ color:#e44aaa;}
+.pink .header .search input.smt{background-color:#f779cd;}
+.pink .header .links{ background:url(./images/toolbar_links2.png) no-repeat;}
+.pink .head_nav{background-color:#ee6bc8;}
+.pink .head_nav .nav_list a i{ color:#d455af; border-color:#d455af;}
+.pink .head_nav .nav_list a:hover{ background-color:#d455af;}
+.pink .head_nav .nav_list a.on{ background-color:#d455af;}
+.pink .head_nav .r_con .singin{background:url(./images/sign.jpg) no-repeat;}
+.pink .head_nav .r_con .singined{background: url(./images/sign.jpg) no-repeat 0 -70px;}
+.pink .singn_panel .dropdown_menu,.pink .sign_board .dropdown_menu{ border-color:#EE6BC8;}
+.pink .login_board b{ color:#E02F2F;}
+.pink .singn_panel .dropdown_menu b{ color:#EE6BC8;}
+.pink .junav .nav_list a.on{ color:#EE6BC8 ;border-bottom-color:#EE6BC8;}
+
+
+.pink .junav .nav_list a.on{ color:#EE6BC8; border-bottom-color:#EE6BC8;}
+.pink .junav .recommend a.on{ color:#EE6BC8;border-bottom-color:#EE6BC8; }
+
+.pink .list_page span.current a{ background-color:#ee6bc8;}
+.pink .about{ border-top-color:#d455af;}
+.pink .about li a:hover{ color:#d44098;}
+.pink .about li.w3 h3 a{ color:#d44098;}
+.pink .about li.w4 h4 em{ color:#d44098;}
+.pink .friendly_links .more:hover{ color:#d44098;}
+
+
+.pink .deal h4 em{ color:#e9328f;}
+.pink .deal h4 span{ color:#E9328F;}
+.pink .deal h4 a{ background:url(./images/dbg1.png) no-repeat 0 -256px}
+.pink .deal h6 a{ color:#e9328f; }
+.pink .bady_tab li .line_top{ background-color:#E9328F;}
+.pink .item_goods_list .brand_new{ background:url(./images/brand-new.png);}
+.pink .price_info .item_btn .heart{background:url(./images/my-like.png) no-repeat -23px -37px;}
+.pink .price_info .price .jd_current{ color:#E9328F;}
+.pink .price_info .item_btn .btn{ background:url(./images/new-alert-total.gif) no-repeat;}
+.pink .price_info .item_btn .buy{ background-position: 0 -132px;}
+.pink .price_info .item_btn .buy:hover{ background-position: 0 -184px;}
+.pink .price_info .item_btn .over{ background-position: 0 -344px;}
+.pink .price_info .item_btn .start{ background-position:0 -289px}
+.pink .good_price .btn a{ background:url(./images/tag_state.gif) no-repeat -83px -125px;}
+
+.pink .blockBL a:hover{color:#e9328f;}
+.pink .an_tab_nav{ border-bottom-color:#ee6bc8;}
+
+
+.pink .jd_num01{ color:#E9328F;}
+.pink .org{color:#E9328F;}
+.pink .bady_tab li a.badyactive{ color:#f779cd;}
+.pink .bady_tab li a em{ color:#fe6dce;}
+.pink .g_list.buy .price_current {color: #e9328f;}
+.pink .deal .newicon{background:url(./images/pp_icons.png) no-repeat 0 0;}
+.pink .box_list .bar{color:#E9328F;}
+.pink .baockP .leftb dl a:hover,.pink .baockP .leftb dl a.on{border-left-color:#e9328f;}
+
+.pink .an_tab_nav li{ background:url('./images/bg.png') no-repeat 0 -27px; }
+.pink .an_tab_nav li a{background:url('./images/bg.png') no-repeat right -27px;}
+.pink .an_tab_nav li.on {background-position: 0 0;}
+.pink .baockP .leftb dl dt{ color:#e9328f;}
+
+.pink .warning_login em{ background:url(./images/center.gif) no-repeat 0 0;}
+.pink .invite_friend dd .fuzhi{background: url(./images/center.gif) no-repeat 0 -87px;}
+.pink .invite_friend dt em{color: #c41304;}
+
+.pink .flutter .side_logo a{background:url(./images/side_logo.png) no-repeat #EE6BC8 center;}
+.pink .side_nav h3{ background-color:#f7d5ed; color:#e9328f;}
+.pink .side_nav h3 a{ color:#e9328f;}
+.pink .side_nav ul li a.on,.pink .side_nav ul li a.on:hover {background: #ee6bc8;color: #fff;}
+.pink .side_nav .search_form .smt{ background:url(./images/icon_search.png) no-repeat #f779cd center;}
+.pink .side_nav .add_link i{ background:url(./images/32787_icon.png) no-repeat;}
+
+.pink .redm_c{border-color:#ee6bc8;}
+.pink .redm_c .title{background-color:#ee6bc8;}
+.pink .redm_c .link a{color:#E68EE6;}
+.pink .use_login .right .remberPwd a{color:#ee6bc8;}
+.pink .use_login .right .loginBtn{background:url(./images/login.gif) no-repeat 0 0;}
+.pink .use_login .right .jumoRegist{ background:url(./images/login.gif) -87px 0 no-repeat; }
+.pink .registInfo .changeVercode{ color:#ee6bc8;}
+.pink .registInfo .regist_stup p .cur{ color:#ee6bc8;}
+.pink .registInfo .regist_stup p span.cur i{ background:url(./images/login.gif) no-repeat 0 -145px;}
+.pink .registInfo .regist_atonce .regist{background:url(./images/login.gif) -86px 0 no-repeat;}
+.pink .gosafeCenter {background: url(./images/login.gif) -87px 0;}
+.pink .cooperatonType ul li h4 a{ background:url(./images/signcenter.png) no-repeat 0 0;}
+.pink .goods_url input.btn{ background:url(./images/login.gif) no-repeat -87px 0;}
+.pink .goods_url i{ color:#ee6bc8;}
+.pink .deallist .list h4 span{color:#e9328f;}
+
+.pink .user_pwd .sub_btn {background: url(./images/login.gif) -87px 0;}
+.pink .login_email {background: url(./images/login.gif) -87px 0;}
+.pink .input_file {background: url(./images/selectFile.png) no-repeat;}
+.pink .deallist .list h4 a {background: url(./images/bg3.png) no-repeat;}
+.pink .content_right .describe_goods h4 .btn {background: url(./images/duihuan.gif) no-repeat 0 -257px;}
+.pink .content_right .describe_goods h4 a.jjks{ background-position:0 -291px;}
+.pink .content_right .describe_goods h4 a.over{ background-position:0 -324px;}
+.pink .content_right .J_TabBarWrap ul li a{background: url(./images/i3.png) right -66px no-repeat;}
+
+.pink .show_box_msg .outer .title {background: url(./images/prompt1.png) no-repeat;}
+.pink .show_box_msg .inner {background: url(./images/prompt2.png) repeat-y;}
+.pink .show_box_msg .msg_footer {background: url(./images/prompt3.png) no-repeat;}
+.pink .show_box_msg .inner .inner_report .sub_btn {background: url(./images/sub.png) no-repeat;}
+.pink .goods_url .blockB li.recommand .subBtn {background: url(./images/center.gif) no-repeat -240px -326px;}
+.pink .nav_c .nav_menu {border-bottom-color: #e9328f;}
+.pink .nav_c .nav_menu a {background: url(./images/bg2.png) no-repeat 0 -445px;}
+.pink .nav_c .nav_menu a em {background: url(./images/bg2.png) no-repeat 100% -445px;}
+
+.pink .apply_addredd.try .apply_title .one,.pink .apply_addredd.try .apply_title .two,.pink .apply_addredd.try .apply_title .three{width:370px; height:29px; background:url(./images/dotry.jpg) no-repeat 0 0;}
+.pink .apply_addredd.exchange .apply_title .one,.pink .apply_addredd.exchange .apply_title .two,.pink .apply_addredd.exchange .apply_title .three{width:370px; height:29px; background:url(./images/doexchange.jpg) no-repeat 0 0;}

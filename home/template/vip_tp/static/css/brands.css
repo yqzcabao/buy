@@ -1,0 +1,34 @@
+/*品牌团*/
+.brands_logo{ max-height:119px;position:relative; margin-bottom:20px; clear:both; width:977px; margin-top:20px; overflow:hidden}
+.brands_logo .trigger{ position:absolute; top:38px; width:15px; height:39px; overflow:hidden; background-color:#fff;}
+.brands_logo .trigger.prev{ left:1px;}
+.brands_logo .trigger.next{ right:5px;}
+.brands_logo .trigger i{ position:absolute; left:50%; top:37%; width:8px; height:15px; background:url(../images/brand/lr.png) no-repeat; display:block;}
+.brands_logo .prev i{ background-position: 0 0;}
+.brands_logo .next i{ background-position: -9px 0;}
+.brands_logo ul{ width:1000%;}
+.brands_logo li{ width:980px; background-color:#fff;}
+.brands_logo li a{ display:block; border:1px solid #e9e9e9; border-width:0 1px 1px 0; width:121px; height:58px;text-align: center;}
+.brands_logo li a img{ width:80px; height:40px; margin-top:10px;}
+
+.bandBox{ margin-bottom:15px;}
+.bandBox .hd{ padding:5px 0; line-height:31px; border-bottom:1px solid #c0c0c0;}
+.bandBox .hd h3{ text-align:left; font:22px/31px "microsoft yahei"; color:#000;}
+.bandBox .hd h3 img{ margin-right:8px; vertical-align:middle;}
+
+.brands_box{margin-top:10px;border-bottom: 1px solid #dadada;}
+.bar{ display: block;width:151px; height:28px; border:1px solid #dadada; font:12px/28px "宋体"; color:#e02f2f;  margin-left:-75px; text-align: center; border-top:none;margin: 0px auto;}
+/*品牌详细页面*/
+.list_introduce{ background-color:#fff; margin-top:10px; width:980px; box-shadow:1px 1px 1px rgba(226, 226, 226, 0.75); position:relative; height:130px;}
+.list_introduce .pic{ width:740px; height:130px; overflow:hidden}
+.list_introduce .pic img{width:740px;height:130px}
+.list_introduce .detail{ width:240px; height:130px; position:relative; margin-top:0;}
+.list_introduce .detail img{width:80px;height:40px}
+.list_introduce .detail .img{ position:absolute; left:0; top:20px; bottom:0; right:0; width:80px; height:40px; display:inline-block; margin:0 auto;}
+.list_introduce .shop_name{ text-align:center; color:#666; font-size:12px; margin-top:65px;}
+.list_introduce .discount{ clear:both; color:#ff6600; text-align:center; font-size:24px; font-family:"微软雅黑","宋体"; padding-top:3px; }
+/*品牌图标*/
+.contentA {overflow: hidden;}
+.contentA .brandbox a{ width:120px; height:57px; border:1px solid #e2e2e2; padding-top:1px; border-color:#fff #e2e2e2 #e2e2e2 #fff;text-align: center;background: #fff;}
+.contentA .brandbox a img{ margin-top:10px; width:80px; height:40px;}
+.contentA .brandbox .ctinue{ background-color:#fff; line-height:57px; color:#999;}

@@ -1,0 +1,62 @@
+@charset "utf-8";
+/*public by bojo start*/
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {margin: 0;padding: 0;}
+fieldset, img {border:0px;}
+a {text-decoration:none;}
+a:hover, a:active {text-decoration: none;}
+:focus {outline: 0 none;}
+ul, li {list-style:none;}
+em {font-style: normal;}
+/*clear by:bojo start*/
+.clearfix {clear: both;display: block;height: 0;overflow: hidden;visibility: hidden;width: 0;}
+.clear:after,.clear:before {content:"";display:table;}
+.clear:after {clear:both;overflow:hidden;}
+.clear {zoom:1;clear:both;}
+/*clearfix by:bojo end*/
+.fl{ display:inline-block; float:left;}
+.fr{ display:inline-block; float:right;}
+.mt0{ margin-top:0px !important}
+.mt10{ margin-top:10px !important;}
+/*public by bojo end*/
+body {font-family: "Helvetica Neue", Helvetica, STHeiTi, sans-serif;font-size: 14px;background:#ececec;color:#5E5E5E;height:100%;font-size:14px;}
+.app {background: none repeat scroll 0 0 rgba(236, 236, 236, 1);margin: 0 auto;max-width: 480px;min-width: 320px;position: relative;width: 100%;}
+
+/*关于我们*/
+.about_us{font-family: "黑体-简"; }
+.about_us h1{ text-align: center; padding: 6.6% 0 0 0; background: rgb(255,255,255); }
+.about-box li{margin-bottom: 4.2%; background: rgb(255,255,255); overflow: hidden; width: 100%; height: 100%  }
+.about-box h3{ color: #6db110; font-size: 20px;  padding-top: 6.6%; padding-bottom: 6.6%; border-bottom: 1px solid #ebebeb;margin-left: 3.715%;}
+.about-box .con{ line-height: 1.5em; padding: 2% 5% 2% 5%}
+.about-box .con em{ color: #ff3838;}
+.about-box li .box-ab{ overflow: hidden;  padding-top: 6.25%;border-bottom: 1px dashed #b3b3b3;padding-bottom: 6.25%;}
+.about-box li img{ float: left; width: 32%;margin:0 5% 0 5%; display: inline;}
+.about-box li .introduce{ width: 55%; padding-right: 5%; float: left; padding: 10% 0; }
+.about-box li .introduce h2{ font-size: 20px; color: #6db110;}
+.about-box li .introduce em{ font-size: 12px;  color: #000; line-height: 1.5em; padding-top: 2%; display: inline-block;}
+.about-box li .last{ border: none;}
+.about-box li .over{ padding-bottom: 6.25%;}
+.about-box li .discount_box{ padding-top: 6.25%; border:none;}
+.about-box li .discount{  width:60%; padding: 5% 0 0 0;}
+.about-box li .discount p{ padding: 6% 0; width: 100%;  font-size: 12px; border-bottom: 1px dashed  #b3b3b3;}
+.mr0{  margin-right: 0!important;}
+
+/*邮箱验证*/
+.email-con{ color: #000; background: #fff; max-width: 640px;min-width: 320px; font-size: 16px; font-family: "黑体-简"; }
+.email-con ul li{ padding:4.6875% 2.34375%  4.6875% 0; border-bottom: 1px solid #cccccc;margin-left:2.34375%; }
+.email-con ul li label{ height: 36px; line-height: 36px; float: left;}
+.email-con ul li input{  border:  none;}
+.email-con ul li .txt{height: 36px;font-size: 14px; font-family: "黑体-简";   color: #cccccc;}
+.email-con ul li .icon-btn{ width: 24px; height: 24px; float: right; margin-top: 2.875%;}
+.email-con ul .btn-go a{background: #E63955; width: 90.625%;  margin: 0 auto;  display: block; border-radius: 50px; font-size: 16px; line-height: 35px;  text-align: center; }
+.email-con ul li a:hover{ text-decoration: none;}
+.email-con ul .btn-go .icon-btn01{color: rgb(255,255,255);}
+.email-con ul .btn-go .icon-btn02{color: rgba(255,255,255,.4);}
+.email-con ul .btn-go .icon-btn03{background: #cccccc; color: rgb(255,255,255);}
+.email-con ul .btn-go .icon-btn04{background: #4bd562; color: rgb(255,255,255);}
+.email-con ul .phone-num a{background: #E63955;border-radius: 50px; width: 60px; height: 30px; line-height: 30px; text-align: center; float: right;margin-top: 0.875%;}
+.email-con ul .phone-num .icon-btn04{color: rgba(255,255,255,.4); }
+.email-con ul .phone-num .icon-btn05{color: rgb(255,255,255); }
+.email-con ul li p{ height: 36px;  line-height: 36px; color: #E63955; text-align: center; font-size: 16px;}
+.email-con ul .no-border{ margin-left: 0;}
+.email-icon a{ margin: 0 auto; width: 50%; display: block;}
+.error-box{ font-size: 14px;   color: #E63955; background-image: url(../images/tips.png);  background-size: 14px 14px; background-repeat: no-repeat; padding-left: 5%; vertical-align: middle;}

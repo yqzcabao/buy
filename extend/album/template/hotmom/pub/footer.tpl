@@ -1,0 +1,1 @@
+<?php include(PATH_TPL."/footer.tpl.php"); ?>

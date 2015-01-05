@@ -1,0 +1,17 @@
+.baockP{ background-color:#fff; margin-top:20px; overflow:hidden}	
+.baockP .leftb{ text-align:left; padding:10px 0; width:179px; color:#333; display:inline;}
+.baockP .leftb dl{ line-height:24px; overflow:hidden; font-size:12px; padding:10px 0; margin:0 20px; border-bottom: 1px solid #f2f2f2;}
+.baockP .leftb dl dt{ padding-left:10px; font-family:"宋体"; font-size:14px; color:#c41304}
+.baockP .leftb dl dd{ padding:0; position:relative;}
+.baockP .leftb dl a{ display:block; padding-left:10px; color:#333 }
+.baockP .leftb dl a:hover,.baockP .leftb dl a.on{ color:#333; padding-left:8px; background-color:#f2f2f2; border-left: 2px solid #c41304;}
+.baockP .leftb dl.no_border{ border:none;}
+.baockP .rightb{ border-left:1px solid #f2f2f2; width:800px; min-height:300px; padding-bottom:30px; overflow:hidden;}
+.baockP .rightb .bp{ padding:20px 20px; text-align:left; zoom:1}
+.baockP .rightb .bp .tit{ color:#333; padding-bottom:20px; zoom:1}
+.baockP .rightb .bp h2{ font-weight:bold; text-align:left; font-size:14px;}
+.blockBL{ padding:10px; margin-bottom:10px; background-color:#fefef3; border:1px solid #F9F4E8; text-align:left; zoom:1; overflow:hidden; color:#333;margin-top: 10px;}
+.blockBL li{margin:10px 0px;list-style-type: decimal}
+.blockBL span{ display:block; text-align:left; line-height:20px;}
+.blockBL a{ color:#09c}
+.blockBL a:hover{ text-decoration:underline; color:#c41304}

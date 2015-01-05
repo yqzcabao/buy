@@ -1,0 +1,21 @@
+RewriteEngine On
+RewriteBase /
+ErrorDocument 404 /index.php?mod=index&ac=404
+
+RewriteRule ^index(\.html|\.htm)?$                                               								 index.php
+
+RewriteRule ^(goods|try|exchange|gift|seller|user)/([\w]*)/([\w]*)-(.*)/([\w]*)-(.*)/([\w]*)-(.*)/?$             index.php?mod=$1&ac=$2&$3=$4&$5=$6&$7=$8
+RewriteRule ^(goods|try|exchange|gift|user|brand|business|seller|help|ajax)/([\w]*)/([\w]*)-(.*)/([\w]*)-(.*)/?$ index.php?mod=$1&ac=$2&$3=$4&$5=$6
+RewriteRule ^(goods|try|exchange|gift|user|brand|business|seller|help|wap|ajax)/([\w]*)/([\w]*)-(.*)/?$          index.php?mod=$1&ac=$2&$3=$4
+RewriteRule ^(goods|try|exchange|gift|user|brand|business|seller|help|wap|ajax)/([\w]*)/?$            	         index.php?mod=$1&ac=$2
+RewriteRule ^(help|album|wap|qzone)/([\w]*)-(.*)/([\w]*)-(.*)/?$            	                                 index.php?mod=$1&$2=$3&$4=$5
+RewriteRule ^(help|album|wap|qzone)/([\w]*)-(.*)/?$            	                                                 index.php?mod=$1&$2=$3
+RewriteRule ^(try|exchange|gift|brand|business|seller|album|wap|help|qzone)/?$                             		 index.php?mod=$1
+
+RewriteRule ^(tomorrow|validate_image|jump)/([\w]*)-(.*)\/([\w]*)-(.*)/?$        index.php?mod=index&ac=$1&$2=$3&$4=$5
+RewriteRule ^(tomorrow|validate_image|jump)/([\w]*)-(.*)/?$                      index.php?mod=index&ac=$1&$2=$3
+RewriteRule ^(tomorrow|validate_image|jump|desktop)/?$                           index.php?mod=index&ac=$1
+
+RewriteRule ^([\w]*)-(.*)/([\w]*)-(.*)/([\w]*)-(.*)/?$                           index.php?mod=index&ac=index&$1=$2&$3=$4&$5=$6
+RewriteRule ^([\w]*)-(.*)/([\w]*)-(.*)/?$                                        index.php?mod=index&ac=index&$1=$2&$3=$4
+RewriteRule ^([\w]*)-(.*)/?$                                                     index.php?mod=index&ac=index&$1=$2

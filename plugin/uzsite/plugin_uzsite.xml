@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<item id="Title"><![CDATA[XuanYu! Plugin]]></item>
+	<item id="Version"><![CDATA[V2.0]]></item>
+	<item id="Time"><![CDATA[2014-08-9 10:21]]></item>
+	<item id="From"><![CDATA[成都网悦时代科技 (http://www.wangyue.cc)]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[1]]></item>
+			<item id="adminid"><![CDATA[1]]></item>
+			<item id="name"><![CDATA[[网悦]U站同步]]></item>
+			<item id="identifier"><![CDATA[uzsite]]></item>
+			<item id="description"><![CDATA[方便快捷的管理u站无需登录u站后台便可更新修改管理u站数据，方便快捷实用。]]></item>
+			<item id="copyright"><![CDATA[成都网悦时代科技有限公司]]></item>
+			<item id="version"><![CDATA[v1.0]]></item>
+			<item id="__modules">
+				<item id="0">
+					<item id="name"><![CDATA[set]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[基本设置]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="1">
+					<item id="name"><![CDATA[nav]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[U站导航]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[1]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="2">
+					<item id="name"><![CDATA[cat]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[U站分类]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[2]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="3"> 
+					<item id="name"><![CDATA[goods]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[U站宝贝]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[3]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="4">
+					<item id="name"><![CDATA[push]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[推送产品]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[4]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+			</item>
+		</item>
+		<item id="license">
+		<![CDATA[[*]本插件版权归属成都网悦时代所有.
+[*]未经插件作者许可,任何人任何组织不得以任何形式在任何地方发布/转发原版以及其衍生的修改版.
+[*][b]作品名称:[/b][网悦]U站同步
+[*][b]插件版本:[/b]v1.0
+[*][b]作品简介:[/b]方便快捷的管理u站无需登录u站后台便可更新修改管理u站数据，方便快捷实用。
+[*]最后,感谢您使用我们的插件,也希望您能够给我们提供更好的意见([url=http://www.wangyue.cc/]请点击这里进入成都网悦官方站[/url]).]]>
+		</item>
+		<item id="intro"><![CDATA[
+[color=DeepSkyBlue][b]本插件介绍:[/b][/color]
+名称: [b][网悦]U站同步[/b]
+简介: 方便快捷的管理u站无需登录u站后台便可更新修改管理u站数据，方便快捷实用。
+版本: [b]v1.0[/b]
+作者: 成都网悦时代!
+成都网悦时代!荣誉出品 
+
+-------------------------------------------
+成都网悦时代!团队版权所有!
+禁止任何形式的封装再发布行为.
+特此声明.
+2014年06月09日]]></item>
+		<item id="help"><![CDATA[http://bbs.wangyue.cc/forum.php?mod=viewthread&tid=15&extra=page%3D1]]></item>
+		<item id="installfile"><![CDATA[install.php]]></item>
+		<item id="uninstallfile"><![CDATA[uninstall.php]]></item>
+		<item id="upgradefile"><![CDATA[upgrade.php]]></item>
+	</item>
+</root>

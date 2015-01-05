@@ -1,0 +1,14 @@
+.rightnfixd {width: 46px;height: 150px;position: fixed;z-index: 3000;left: 50%;margin-left: 502px;}
+.rf_het {bottom: 20px;}
+.rightnfixd span {position: absolute;z-index: 1;}
+.rfixedico {background: url(../images/returnico.png);}
+.rightnfixda1 {background-position: -178px -44px;}
+.rightnfixda2 {background-position: -178px -95px;}
+.rightnfixda3 {background-position: -178px -146px;}
+.rightnfixda1:hover {background-position: -122px -44px;}
+.rightnfixda2:hover {background-position: -122px -95px;}
+.rightnfixda3:hover {background-position: -122px -146px;}
+.rightnfixd a {width: 46px;height: 46px;float: left;margin-top: 5px;}
+.rightnfixdspan1 {width: 115px;height: 148px;position: absolute;z-index: 3000;margin-left: -118px;margin-top: -30px;background-position: -2px -1px;display: none;}
+.rightnfixdspan1 img{width: 90px;height: 90px;margin: 10px;}
+.rightnfixdspan1 b{width: 100%;text-align: center;display: block;font-weight: 300;}

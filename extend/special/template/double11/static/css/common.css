@@ -1,0 +1,14 @@
+#time{position: absolute;display: block;left: 50%;text-align: right;color: white;font-size: 30px;margin-left: 220px;top: 260px;}
+#time i{background: url(../images/daotime.png) no-repeat;width: 25px;display: inline-block;display: inline-block;}
+#time i.time1{background-position: 0px -40px;}
+#time i.time2{background-position: 0px -80px;}
+#time i.time3{background-position: 0px -120px;}
+#time i.time4{background-position: 0px -160px;}
+#time i.time5{background-position: 0px -200px;}
+#time i.time6{background-position: 0px -240px;}
+#time i.time7{background-position: 0px -280px;}
+#time i.time8{background-position: 0px -320px;}
+#time i.time9{background-position: 0px -360px;}
+
+.act-bg{width: 100%;height: 350px;background: url('../images/1920x350.jpg') no-repeat top center;}
+.body{background: url(../images/1111bg.png) center 0px repeat-y;}

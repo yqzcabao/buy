@@ -1,0 +1,8 @@
+/*404页面*/
+.nofound{ background-color:#fff;}
+.block404{ height:350px; padding:150px 0 0 600px; text-align:left; background:url(../images/p404.jpg) no-repeat;}
+.block404 h4{ color:#333; font:23px/41px "微软雅黑", "黑体"; height:41px; padding-left:41px; background:url(../images/p404icon2.jpg) no-repeat 0 50%;}
+.block404 p{ padding-left:41px; color:#666; font:16px/33px "微软雅黑", "黑体";}
+.block404 p em{ padding:18px 0 3px; display:block;}
+.block404 p a{ color:#ce0000;}
+.block404 p a:hover{ text-decoration:underline;}

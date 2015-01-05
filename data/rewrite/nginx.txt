@@ -1,0 +1,19 @@
+location / {
+rewrite /index(\.html|\.htm)?$                                               /index.php last;
+
+
+rewrite /(goods|try|exchange|gift|seller|user)/([\w]*)/([\w]*)-(.*)/([\w]*)-(.*)/([\w]*)-(.*)/?$             /index.php?mod=$1&ac=$2&$3=$4&$5=$6&$7=$8 last;
+rewrite /(goods|try|exchange|gift|user|brand|business|seller|help|ajax)/([\w]*)/([\w]*)-(.*)/([\w]*)-(.*)/?$	     /index.php?mod=$1&ac=$2&$3=$4&$5=$6 last;
+rewrite /(goods|try|exchange|gift|user|brand|business|seller|help|wap|ajax)/([\w]*)/([\w]*)-(.*)/?$            	 /index.php?mod=$1&ac=$2&$3=$4 last;
+rewrite /(goods|try|exchange|gift|user|brand|business|seller|help|wap|ajax)/([\w]*)/?$            	                 /index.php?mod=$1&ac=$2 last;
+rewrite /(help|album|wap)/([\w]*)-(.*)/?$            	                                                 /index.php?mod=$1&$2=$3 last;
+rewrite /(try|exchange|gift|brand|business|seller|album|wap|help)/?$                             			         /index.php?mod=$1 last;
+
+rewrite /(tomorrow|validate_image|jump)/([\w]*)-(.*)\/([\w]*)-(.*)/?$        /index.php?mod=index&ac=$1&$2=$3&$4=$5 last;
+rewrite /(tomorrow|validate_image|jump)/([\w]*)-(.*)/?$                      /index.php?mod=index&ac=$1&$2=$3 last;
+rewrite /(tomorrow|validate_image|jump|desktop)/?$                                   /index.php?mod=index&ac=$1 last;
+
+rewrite /([\w]*)-(.*)/([\w]*)-(.*)/([\w]*)-(.*)/?$                           /index.php?mod=index&ac=index&$1=$2&$3=$4&$5=$6 last;
+rewrite /([\w]*)-(.*)/([\w]*)-(.*)/?$                                        /index.php?mod=index&ac=index&$1=$2&$3=$4 last;
+rewrite /([\w]*)-(.*)/?$                                                     /index.php?mod=index&ac=index&$1=$2 last;
+}

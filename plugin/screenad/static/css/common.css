@@ -1,0 +1,11 @@
+.banner_column {margin: 10px auto;width: 980px;}
+.banner_column .content {overflow: hidden;width: 979px;height: 340px;background: #fff;}
+.banner_column dl dd, .banner_column dl dt {float: left;font-size: 0;border: 1px solid #ececec;overflow: hidden;margin: 0px;padding: 0px;background: #fff;}
+.banner_column dl dt {border-width: 0 1px 0 0;}
+.banner_column dl dd {border-width: 0 1px 1px 0;}
+.banner_column dl {width: 980px;}
+.banner_column .content {overflow: hidden;width: 979px;height: 340px;background: #fff;}
+.banner_column dl {width: 980px;}
+.banner_column dl dt {border-width: 0 1px 0 0;}
+.banner_column dl dd {width: 243px;height: 170px;}
+.banner_column dl dd img, .banner_column dl dt img {-moz-transition: -moz-transform .2s linear;-webkit-transition: -webkit-transform .2s linear;-o-transition: -o-transform .2s linear;-ms-transition: -ms-transform .2s linear;transition: transform .2s linear;}

@@ -1,0 +1,53 @@
+/*登录弹窗样式*/
+.dialog-wrapper{position: absolute;background:#fffbeb;border: 5px solid #e6e6e6;}
+.dialog-wrapper .diginfo{padding:10px 20px;border:1px solid #c9c9c9;}
+.dialog-wrapper .diginfo em{margin-left:5px;}
+.dialog-wrapper .diginfo u{float:left;width:18px;height:18px;overflow:hidden;background: url(http://css.tuanimg.com/global/images/msg.png);}
+.dialog-wrapper .diginfo u.m0{background:none;display:none}
+.dialog-wrapper .diginfo u.m1{background-position:0 0;}
+.dialog-wrapper .diginfo u.m2{background-position:0 -18px;}
+.dialog-wrapper span.close{position: absolute;top:5px;right:5px;display:block;width:10px;height:10px;background:url(http://css.tuanimg.com/global/images/bg_content.png) -388px -181px;cursor:pointer;}
+.dialog-wrapper a:hover span.close{background-position: -388px -147px;}
+.dialog-wrapper .error .comfir_mail{text-decoration: underline;color:#09c;cursor: pointer;}
+/*以下为弹窗外层样式*/
+#dialog_log_qiandao{border: 8px solid #3d3d3d \9; border: 8px rgba(0,0,0,0.4) solid; font-size: 12px; font-family: "宋体"; background: none;z-index:1000;}
+#dialog_log_qiandao .close, #dialog_log_qiandao .close:hover{background: url(../images/common/login_box_close.png) no-repeat -3px -3px; width: 15px; height: 15px; right: 12px; top: 12px;-webkit-transform: rotate(0deg); -webkit-transition: all ease-in-out 100ms;}
+#dialog_log_qiandao .close:hover{-webkit-transform: rotate(90deg); -webkit-transition: all ease-in-out 100ms;}
+#dialog_log_qiandao .diginfo{background: #fff; border: 1px solid #c9caca;margin: 0;padding: 24px 0 0 0 !important;}
+/*以下为总体默认样式*/
+.qd_login{width: 334px; border: none;}
+.qd_login a, .qd_login a:hover{color:#ec1611; padding: 0;}
+.qd_login a.reglink{text-decoration: underline; position: absolute; right: 0; top: 0; line-height: 30px;}
+/*以下为登录表单及title样式*/
+.qd_login .hc{background: #fff;padding: 0;}
+.qd_login .hc form{position: relative;}
+.qd_login .hc h3,.qd_login .hc ul{width:257px; padding: 0; float:none; margin: 0 auto; text-align:left;font-size: 12px;line-height: 30px;}
+.qd_login .hc h3{color: #595757; font-weight: normal; position: relative;}
+.qd_login .hc li {padding-top: 10px;}
+.qd_login .hc li input{width:92%; height:20px;padding:6px 10px; background: #fff; border:none; font-size: 12px; line-height:20px; color: #595757; border: 1px solid #c9caca; outline: none; vertical-align: top;}
+.qd_login .hc li input#ddpw_1, .qd_login .hc li input#ddpw_1_text{border-top: none; *+margin-top: -2px;}
+.qd_login .hc li.btn{font-size: 12px;}
+.qd_login .hc li.btn input{width:100%; border:none; height:35px; margin: 0; background: #ec1611; cursor: pointer;font-size: 12px; color: #fff;}
+.qd_login .hc li.btn a{margin-left:15px;}
+.qd_login .hc li.tb{padding-top: 20px;}
+/*以下为登录消息提示样式*/
+.qd_login .ologintip {position: relative; color: #ec1611; padding: 10px 0;}
+.qd_login .ologintip #pperrmsg{color: #ec1611;}
+.qd_login .ologintip a.forgetPwd{position: absolute; right: 0; top: 10px; line-height: 30px;}
+.qd_login .ologintip span{color: #a9a9a9}
+.qd_login .ologintip i{width: 26px; height: 12px; background: url(../images/common/login_dialog_icons.png) no-repeat -170px -37px; display: block; position: absolute; bottom: 0; left: 80px;}
+/*以下为第三方登录栏样式*/
+.qd_login .sf{height: 70px; background: #f5f5f5; margin: 0; border: none;}
+.qd_login .sf .sf_content{width: 260px; margin: 0 auto; padding: 17px 0;overflow: hidden;}
+.qd_login .sf p{height: auto; margin: 0;}
+.qd_login .sf a{width: auto; height: auto; background: none; text-indent: 0; margin: 0;}
+.qd_login .sf a{width: 86px; height: 35px; display: inline-block; float: left; line-height: 35px; background: none; margin: 0; text-indent: 0; overflow: hidden;}
+.qd_login .sf a:hover{text-decoration: none;}
+.qd_login .sf a.qq i{background: url(../images/common/login_dialog_icons.png) no-repeat 0 0;width: 35px; height: 35px; margin: 0; background-position: -5px -4px; display: block; float: left;}
+.qd_login .sf a.qq span{color: #a9a9a9;margin-left: 3px;}
+
+.qd_login .sf a.sina i{background: url(../images/common/login_dialog_icons.png) no-repeat 0 0;width: 35px; height: 35px; margin: 0; background-position: -5px -45px; display: block; float: left;}
+.qd_login .sf a.sina span{color: #a9a9a9;margin-left: 3px;}
+
+.qd_login .sf a.taobao i{background: url(../images/common/login_dialog_icons.png) no-repeat 0 0;width: 35px; height: 35px; margin: 0; background-position: -5px -86px; display: block; float: left;}
+.qd_login .sf a.taobao span{color: #a9a9a9;margin-left: 3px;}

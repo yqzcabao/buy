@@ -1,0 +1,49 @@
+<?php if(!defined('PATH_ROOT')){exit('Access Denied');};?>
+<script type="text/javascript">
+//显示风格
+function showstyle(def){
+	var style=$("input[name='tpl[site_tpl_style]']").attr("data-style");
+	eval("style=("+style+")");
+	var html='';
+	for(var i in style){
+		html+='<a href="javascript:void(0)" id="style_'+i+'" onclick="change_style(\''+i+'\')" class="style" style="background-color:'+style[i]+'"></a>';
+	}
+	$("#style_list").html(html);
+	change_style(def)
+}
+//选择风格
+function change_style(style){
+	if(style==''){
+		style='default';
+	}
+	$("#style_list a").removeClass("son");
+	$("#style_"+style).addClass("son");
+	$("input[name='tpl[site_tpl_style]']").val(style);
+}
+</script>
+<?php
+//风格设置
+$style="{'default':'#cf201c','lightblue':'#7dd9ff','orange':'#ff4400','pink':'#ee6bc8','skyblue':'#34b7ef','green':'#6db110'}";
+?>
+<tr>
+    <th class="w120">风格：</th>
+    <td>
+    	<input type="hidden" name="tpl[site_tpl_style]" value="<?=$_webset['site_tpl_style'];?>" data-style=<?=$style;?>>
+    	<div id="style_list">
+    	<script type="text/javascript">showstyle('<?=$_webset['site_tpl_style'];?>')</script>
+    	</div>
+    </td>
+</tr>
+<tr>
+    <th class="w120">左侧logo：</th>
+    <td>
+    	<input type="text" class="textinput w270" name="tpl[side_logo]" value="<?=$_webset['side_logo'];?>">
+    	<input id="fileupload" type="file" name="side_logo" action="../?mod=ajax&ac=operat&op=ajaxfile">
+    	<script type="text/javascript">
+		ajaxFileUpload("fileupload",'side_logo');
+		</script>
+		<p>
+		<span class="tip">默认模板尺寸128*74, <a href="http://www.wangyue.cc/software.html" class="red" target="_blank">付费制作</a></span>
+		</p>
+    </td>
+</tr>

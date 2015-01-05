@@ -1,0 +1,31 @@
+.baockP{ background-color:#fff; margin-top:20px; overflow:hidden}	
+.baockP .leftb{ text-align:left; padding:10px 0; width:179px; color:#333; display:inline;}
+.baockP .leftb dl{ line-height:24px; overflow:hidden; font-size:12px; padding:10px 0; margin:0 20px; border-bottom: 1px solid #f2f2f2;}
+.baockP .leftb dl dt{ padding-left:10px; font-family:"宋体"; font-size:14px; color:#c41304}
+.baockP .leftb dl dd{ padding:0; position:relative;}
+.baockP .leftb dl a{ display:block; padding-left:10px; color:#333 }
+.baockP .leftb dl a:hover,.baockP .leftb dl a.on{ color:#333; padding-left:8px; background-color:#f2f2f2; border-left: 2px solid #c41304;}
+.baockP .leftb dl.no_border{ border:none;}
+.baockP .rightb{ border-left:1px solid #f2f2f2; width:800px; min-height:300px; padding-bottom:30px; overflow:hidden;}
+.baockP .rightb .bp{ padding:20px 20px; text-align:left; zoom:1}
+.baockP .rightb .bp .tit{ color:#333; padding-bottom:20px; zoom:1}
+.baockP .rightb .bp h2{ font-weight:bold; text-align:left; font-size:14px;}
+.blockBL{ padding:10px; margin-bottom:10px; background-color:#fefef3; border:1px solid #F9F4E8; text-align:left; zoom:1; overflow:hidden; color:#333;margin-top: 10px;}
+.blockBL li{margin:10px 0px;list-style-type: decimal}
+.blockBL span{ display:block; text-align:left; line-height:20px;}
+.blockBL a{ color:#09c}
+.blockBL a:hover{ text-decoration:underline; color:#c41304}
+/*友情链接*/
+.content{ width:100%;}
+.content_c{ width:980px; background-color:#fff;}
+.link { width:980px;}
+.link ul{ width:950px; padding: 10px 8px 10px 22px; margin-left:10px;overflow: hidden;}
+.link_title{color: #ff892b;font-size: 20px;font-family: "微软雅黑","宋体"; margin-top:10px; text-indent:10px;margin: 10px 0px 0px 20px;
+padding-top: 10px;}
+.link li{ width:90px; margin-right:4px; line-height:30px; overflow:hidden;}
+.link li.last{ margin:0;}
+.link li a{ text-align:left}
+.link li a:hover{ text-decoration:underline}
+.link_condition{margin-top:10px; padding-bottom:20px;padding-left: 20px}
+.link_condition p{ line-height:26px; color:#727272; font-size:14px;text-indent:10px}
+.link_condition b{ font-weight:bold;}

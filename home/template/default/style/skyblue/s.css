@@ -1,0 +1,107 @@
+.skyblue .toolbar a:hover{ color:#42b6e8;}
+.skyblue .toolbar .userNike{ color:#42b6e8;}
+.skyblue .header .search input.smt{background-color:#5accfd;}
+.skyblue .header .links{ background:url(./images/toolbar_links2.png) no-repeat;}
+.skyblue .head_nav{background-color:#34b7ef;}
+.skyblue .head_nav .nav_list a i{ color:#32a8da; border-color:#32a8da;}
+.skyblue .head_nav .nav_list a:hover{ background-color:#32a8da;}
+.skyblue .head_nav .nav_list a.on{ background-color:#32a8da;}
+.skyblue .head_nav .r_con .singin{background:url(./images/sign.jpg) no-repeat;}
+.skyblue .head_nav .r_con .singined{background: url(./images/sign.jpg) no-repeat 0 -70px;}
+.skyblue .singn_panel .dropdown_menu,.skyblue  .sign_board .dropdown_menu{ border-color:#34b7ef;}
+.skyblue .login_board b{ color:#22b2e1;}
+.skyblue .singn_panel .dropdown_menu b{ color:#22b2e1;}
+.skyblue .junav .nav_list a.on{ color:#34b7ef ;border-bottom-color:#34b7ef;}
+
+
+.skyblue .junav .nav_list a.on{ color:#34b7ef; border-bottom-color:#34b7ef;}
+.skyblue .junav .recommend a.on{ color:#7dd9ff;border-bottom-color:#7dd9ff; }
+
+.skyblue .list_page span.current a{ background-color:#34bde9;}
+.skyblue .about{ border-top-color:#34b7ef;}
+.skyblue .about li a:hover{ color:#33aadb;}
+.skyblue .about li.w3 h3 a{ color:#33aadb;}
+.skyblue .about li.w4 h4 em{ color:#33aadb;}
+.skyblue .friendly_links .more:hover{ color:#33aadb;}
+
+
+.skyblue .deal h4 em{ color:#078dc6;}
+.skyblue .deal h4 span{ color:#078dc6;}
+.skyblue .deal h4 a{ background:url(./images/dbg1.png) no-repeat 0 -256px}
+.skyblue .deal h6 a{ color:#078dc6; }
+.skyblue .bady_tab li .line_top{ background-color:#65d9ff;}
+.skyblue .item_goods_list .brand_new{ background:url(./images/brand-new.png);}
+.skyblue .price_info .item_btn .heart{background:url(./images/my-like.png) no-repeat -23px -37px;}
+.skyblue .price_info .price .jd_current{ color:#34bde9;}
+.skyblue .price_info .item_btn .btn{ background:url(./images/new-alert-total.gif) no-repeat;}
+.skyblue .price_info .item_btn .buy{ background-position: 0 -132px;}
+.skyblue .price_info .item_btn .buy:hover{ background-position: 0 -184px;}
+.skyblue .price_info .item_btn .over{ background-position: 0 -344px;}
+.skyblue .price_info .item_btn .start{ background-position:0 -289px}
+.skyblue .good_price .btn a{ background:url(./images/tag_state.gif) no-repeat -83px -125px;}
+
+.skyblue .blockBL a:hover{color:#33aadb;}
+.skyblue .an_tab_nav{ border-bottom-color:#34b7ef;}
+
+
+.skyblue .jd_num01{ color:#34bde9;}
+.skyblue .org{color:#34bde9;}
+.skyblue .bady_tab li a.badyactive{ color:#4ad0fc;}
+.skyblue .bady_tab li a em{ color:#22b2e1;}
+.skyblue .g_list.buy .price_current {color: #34bde9;}
+.skyblue .deal .newicon{background:url(./images/pp_icons.png) no-repeat 0 0;}
+.skyblue .box_list .bar{color:#078dc6;}
+.skyblue .baockP .leftb dl a:hover,.skyblue .baockP .leftb dl a.on{border-left-color:#33aadb;}
+
+.skyblue .an_tab_nav li{ background:url('./images/bg.png') no-repeat 0 -27px; }
+.skyblue .an_tab_nav li a{background:url('./images/bg.png') no-repeat right -27px;}
+.skyblue .an_tab_nav li.on {background-position: 0 0;}
+.skyblue .baockP .leftb dl dt{ color:#33aadb;}
+
+.skyblue .warning_login em{ background:url(./images/center.gif) no-repeat 0 0;}
+.skyblue .invite_friend dd .fuzhi{background: url(./images/center.gif) no-repeat 0 -87px;}
+.skyblue .invite_friend dt em{color: #c41304;}
+
+.skyblue .flutter .side_logo a{background:url(./images/side_logo.png) no-repeat #6BC8EF center;}
+.skyblue .side_nav h3{ background-color:#daf6ff; color:#52aed1;}
+.skyblue .side_nav h3 a{ color:#52aed1;}
+.skyblue .side_nav ul li a.on,.skyblue .side_nav ul li a.on:hover {background: #34b7ef;color: #fff;}
+.skyblue .side_nav .search_form .smt{ background:url(./images/icon_search.png) no-repeat #5accfd center;}
+.skyblue .side_nav .add_link i{ background:url(./images/32787_icon.png) no-repeat;}
+
+.skyblue .redm_c{border-color:#34b7ef;}
+.skyblue .redm_c .title{background-color:#34b7ef;}
+.skyblue .redm_c .link a{color:#01A3E7;}
+.skyblue .use_login .right .remberPwd a{color:#078dc6;}
+.skyblue .use_login .right .loginBtn{background:url(./images/login.gif) no-repeat 0 0;}
+.skyblue .use_login .right .jumoRegist{ background:url(./images/login.gif) -87px 0 no-repeat; }
+.skyblue .registInfo .changeVercode{ color:#078dc6;}
+.skyblue .registInfo .regist_stup p .cur{ color:#078dc6;}
+.skyblue .registInfo .regist_stup p span.cur i{ background:url(./images/login.gif) no-repeat 0 -145px;}
+.skyblue .registInfo .regist_atonce .regist{background:url(./images/login.gif) -86px 0 no-repeat;}
+.skyblue.gosafeCenter {background: url(./images/login.gif) -87px 0;}
+.skyblue .cooperatonType ul li h4 a{ background:url(./images/signcenter.png) no-repeat 0 0;}
+.skyblue .goods_url input.btn{ background:url(./images/login.gif) no-repeat -87px 0;}
+.skyblue .goods_url i{ color:#078dc6;}
+.skyblue .deallist .list h4 span{color:#078dc6;}
+
+.skyblue .user_pwd .sub_btn {background: url(./images/login.gif) -87px 0;}
+.skyblue .login_email {background: url(./images/login.gif) -87px 0;}
+.skyblue .input_file {background: url(./images/selectFile.png) no-repeat;}
+.skyblue .deallist .list h4 a {background: url(./images/bg3.png) no-repeat;}
+.skyblue .content_right .describe_goods h4 .btn {background: url(./images/duihuan.gif) no-repeat 0 -257px;}
+.skyblue .content_right .describe_goods h4 a.jjks{ background-position:0 -291px;}
+.skyblue .content_right .describe_goods h4 a.over{ background-position:0 -324px;}
+.skyblue .content_right .J_TabBarWrap ul li a{background: url(./images/i3.png) right -66px no-repeat;}
+
+.skyblue .show_box_msg .outer .title {background: url(./images/prompt1.png) no-repeat;}
+.skyblue .show_box_msg .inner {background: url(./images/prompt2.png) repeat-y;}
+.skyblue .show_box_msg .msg_footer {background: url(./images/prompt3.png) no-repeat;}
+.skyblue .show_box_msg .inner .inner_report .sub_btn {background: url(./images/sub.png) no-repeat;}
+.skyblue .goods_url .blockB li.recommand .subBtn {background: url(./images/center.gif) no-repeat -240px -326px;}
+.skyblue .nav_c .nav_menu {border-bottom-color: #078dc6;}
+.skyblue .nav_c .nav_menu a {background: url(./images/bg2.png) no-repeat 0 -445px;}
+.skyblue .nav_c .nav_menu a em {background: url(./images/bg2.png) no-repeat 100% -445px;}
+
+.skyblue .apply_addredd.try .apply_title .one,.skyblue .apply_addredd.try .apply_title .two,.skyblue .apply_addredd.try .apply_title .three{width:370px; height:29px; background:url(./images/dotry.jpg) no-repeat 0 0;}
+.skyblue .apply_addredd.exchange .apply_title .one,.skyblue .apply_addredd.exchange .apply_title .two,.skyblue .apply_addredd.exchange .apply_title .three{width:370px; height:29px; background:url(./images/doexchange.jpg) no-repeat 0 0;}

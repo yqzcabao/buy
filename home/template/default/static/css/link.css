@@ -1,0 +1,13 @@
+.content{ width:100%;}
+.content_c{ width:980px; background-color:#fff;}
+.link { width:980px;}
+.link ul{ width:950px; padding: 10px 8px 10px 22px; margin-left:10px;overflow: hidden;}
+.link_title{color: #ff892b;font-size: 20px;font-family: "微软雅黑","宋体"; margin-top:10px; text-indent:10px;margin: 10px 0px 0px 20px;
+padding-top: 10px;}
+.link li{ width:90px; margin-right:4px; line-height:30px; overflow:hidden;}
+.link li.last{ margin:0;}
+.link li a{ text-align:left}
+.link li a:hover{ text-decoration:underline}
+.link_condition{margin-top:10px; padding-bottom:20px;padding-left: 20px}
+.link_condition p{ line-height:26px; color:#727272; font-size:14px;text-indent:10px}
+.link_condition b{ font-weight:bold;}
